@@ -1,0 +1,18 @@
+body{
+    background-color: lightseagreen;
+}
+
+#score{
+    font-size:25px;
+    margin-left:20px;
+}
+
+#timer{
+    font-size:25px;
+    float:right;
+    margin-right:50px;
+}
+
+#sketchToBeDrawn{
+    color:crimson;
+}
